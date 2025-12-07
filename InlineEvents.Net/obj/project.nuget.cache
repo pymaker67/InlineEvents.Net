@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i6qKCWWCK2I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adaml\\OneDrive\\Desktop\\InlineEvents.Net\\InlineEvents.Net\\InlineEvents.Net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adaml\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
