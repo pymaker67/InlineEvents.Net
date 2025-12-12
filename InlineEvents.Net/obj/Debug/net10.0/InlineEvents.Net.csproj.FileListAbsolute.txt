@@ -1,0 +1,13 @@
+C:\Users\adaml\OneDrive\Desktop\InlineEvents.Net\InlineEvents.Net\bin\Debug\net10.0\InlineEvents.Net.deps.json
+C:\Users\adaml\OneDrive\Desktop\InlineEvents.Net\InlineEvents.Net\bin\Debug\net10.0\InlineEvents.Net.dll
+C:\Users\adaml\OneDrive\Desktop\InlineEvents.Net\InlineEvents.Net\bin\Debug\net10.0\InlineEvents.Net.pdb
+C:\Users\adaml\OneDrive\Desktop\InlineEvents.Net\InlineEvents.Net\obj\Debug\net10.0\InlineEvents.Net.csproj.AssemblyReference.cache
+C:\Users\adaml\OneDrive\Desktop\InlineEvents.Net\InlineEvents.Net\obj\Debug\net10.0\InlineEvents.Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adaml\OneDrive\Desktop\InlineEvents.Net\InlineEvents.Net\obj\Debug\net10.0\InlineEvents.Net.AssemblyInfoInputs.cache
+C:\Users\adaml\OneDrive\Desktop\InlineEvents.Net\InlineEvents.Net\obj\Debug\net10.0\InlineEvents.Net.AssemblyInfo.cs
+C:\Users\adaml\OneDrive\Desktop\InlineEvents.Net\InlineEvents.Net\obj\Debug\net10.0\InlineEvents.Net.csproj.CoreCompileInputs.cache
+C:\Users\adaml\OneDrive\Desktop\InlineEvents.Net\InlineEvents.Net\obj\Debug\net10.0\InlineEvents.Net.sourcelink.json
+C:\Users\adaml\OneDrive\Desktop\InlineEvents.Net\InlineEvents.Net\obj\Debug\net10.0\InlineEvents.Net.dll
+C:\Users\adaml\OneDrive\Desktop\InlineEvents.Net\InlineEvents.Net\obj\Debug\net10.0\refint\InlineEvents.Net.dll
+C:\Users\adaml\OneDrive\Desktop\InlineEvents.Net\InlineEvents.Net\obj\Debug\net10.0\InlineEvents.Net.pdb
+C:\Users\adaml\OneDrive\Desktop\InlineEvents.Net\InlineEvents.Net\obj\Debug\net10.0\ref\InlineEvents.Net.dll
