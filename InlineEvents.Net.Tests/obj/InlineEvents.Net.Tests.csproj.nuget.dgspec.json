@@ -58,6 +58,10 @@
               "target": "Package",
               "version": "[17.14.1, )"
             },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
             "coverlet.collector": {
               "target": "Package",
               "version": "[6.0.4, )"
@@ -414,6 +418,10 @@
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
               "version": "[10.0.0, )"
+            },
+            "Scrutor": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
