@@ -16,10 +16,10 @@ namespace InlineEvents.Net
             // 2. REGISTER CORE INFRASTRUCTURE (The Glue)
 
             // Register the concrete resolver (which uses IServiceProvider to get handlers)
-            services.AddSingleton<IHandlerResolver, ServiceProviderHandlerResolver>();
+            services.AddScoped<IHandlerResolver, ServiceProviderHandlerResolver>();
 
             // Register the dispatcher (which uses IHandlerResolver to execute logic)
-            services.AddSingleton<InlineEventDispatcher>();
+            services.AddScoped<IInlineEventDispatcher, InlineEventDispatcher>();
 
             return services;
         }
