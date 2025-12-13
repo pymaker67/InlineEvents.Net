@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>InlineEvents.Net</id>
+    <version>1.0.3</version>
+    <authors>Adam Pyymaki</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <description>A high-performance sequential dispatcher that enables decoupled application rules to run in-line with the calling thread. Ideal for scenarios like cookie synchronization, real-time security validation, and immediate side effects.</description>
+    <tags>events sequential inline mediator scrutor application-logic decoupling</tags>
+    <repository type="git" url="https://github.com/pymaker67/InlineEvents.Net.git" commit="9b0da26fc9b0e6a32989d5c12cdb20f1215937cf" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="10.0.0" exclude="Build,Analyzers" />
+        <dependency id="Scrutor" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\adaml\OneDrive\Desktop\InlineEvents.Net\InlineEvents.Net\bin\Release\net8.0\InlineEvents.Net.dll" target="lib\net8.0\InlineEvents.Net.dll" />
+    <file src="C:\Users\adaml\OneDrive\Desktop\InlineEvents.Net\InlineEvents.Net\README.md" target="\README.md" />
+  </files>
+</package>
