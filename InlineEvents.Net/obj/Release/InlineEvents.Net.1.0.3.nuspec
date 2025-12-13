@@ -9,7 +9,7 @@
     <readme>README.md</readme>
     <description>A high-performance sequential dispatcher that enables decoupled application rules to run in-line with the calling thread. Ideal for scenarios like cookie synchronization, real-time security validation, and immediate side effects.</description>
     <tags>events sequential inline mediator scrutor application-logic decoupling</tags>
-    <repository type="git" url="https://github.com/pymaker67/InlineEvents.Net.git" commit="47e343ce5d60f0a63a712eb86aaed9b3de131786" />
+    <repository type="git" url="https://github.com/pymaker67/InlineEvents.Net.git" commit="a03c3bc8e51fcf43123ebef78bf22eee4ee0c91a" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="10.0.0" exclude="Build,Analyzers" />
