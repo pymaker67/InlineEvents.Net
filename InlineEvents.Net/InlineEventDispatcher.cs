@@ -2,7 +2,7 @@
 {
     // Top-level dispatcher
     // The core engine implementation
-    public class InlineEventDispatcher(IHandlerResolver resolver)
+    public class InlineEventDispatcher(IHandlerResolver resolver) : IInlineEventDispatcher
     {
         public async Task Dispatch<TEvent>(TEvent @event) where TEvent : class
         {

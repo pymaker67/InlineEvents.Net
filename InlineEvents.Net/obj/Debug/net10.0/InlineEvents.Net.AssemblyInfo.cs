@@ -17,7 +17,7 @@ using System.Reflection;
     " to run in-line with the calling thread. Ideal for scenarios like cookie synchro" +
     "nization, real-time security validation, and immediate side effects.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f60b4f02d61aa9e90adf2d616f8cf549f4308374")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecb40d48a876f77978c99aed0024c9bc813fbdb1")]
 [assembly: System.Reflection.AssemblyProductAttribute("InlineEvents.Net")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InlineEvents.Net")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

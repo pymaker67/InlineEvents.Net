@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "T09qNkvRHu0=",
+  "dgSpecHash": "0DA1l1N95kE=",
   "success": true,
   "projectFilePath": "C:\\Users\\adaml\\OneDrive\\Desktop\\InlineEvents.Net\\InlineEvents.Net\\InlineEvents.Net.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adaml\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
     "C:\\Users\\adaml\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.0\\microsoft.extensions.dependencymodel.10.0.0.nupkg.sha512",
-    "C:\\Users\\adaml\\.nuget\\packages\\scrutor\\7.0.0\\scrutor.7.0.0.nupkg.sha512"
+    "C:\\Users\\adaml\\.nuget\\packages\\scrutor\\7.0.0\\scrutor.7.0.0.nupkg.sha512",
+    "C:\\Users\\adaml\\.nuget\\packages\\system.io.pipelines\\10.0.0\\system.io.pipelines.10.0.0.nupkg.sha512",
+    "C:\\Users\\adaml\\.nuget\\packages\\system.text.encodings.web\\10.0.0\\system.text.encodings.web.10.0.0.nupkg.sha512",
+    "C:\\Users\\adaml\\.nuget\\packages\\system.text.json\\10.0.0\\system.text.json.10.0.0.nupkg.sha512"
   ],
   "logs": []
 }

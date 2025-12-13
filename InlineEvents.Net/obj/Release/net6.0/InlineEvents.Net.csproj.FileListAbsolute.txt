@@ -1,0 +1,6 @@
+C:\Users\adaml\OneDrive\Desktop\InlineEvents.Net\InlineEvents.Net\obj\Release\net6.0\InlineEvents.Net.csproj.AssemblyReference.cache
+C:\Users\adaml\OneDrive\Desktop\InlineEvents.Net\InlineEvents.Net\obj\Release\net6.0\InlineEvents.Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adaml\OneDrive\Desktop\InlineEvents.Net\InlineEvents.Net\obj\Release\net6.0\InlineEvents.Net.AssemblyInfoInputs.cache
+C:\Users\adaml\OneDrive\Desktop\InlineEvents.Net\InlineEvents.Net\obj\Release\net6.0\InlineEvents.Net.AssemblyInfo.cs
+C:\Users\adaml\OneDrive\Desktop\InlineEvents.Net\InlineEvents.Net\obj\Release\net6.0\InlineEvents.Net.csproj.CoreCompileInputs.cache
+C:\Users\adaml\OneDrive\Desktop\InlineEvents.Net\InlineEvents.Net\obj\Release\net6.0\InlineEvents.Net.sourcelink.json
