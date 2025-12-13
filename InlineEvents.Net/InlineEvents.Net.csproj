@@ -6,7 +6,8 @@
     <Nullable>enable</Nullable>
 
     <IsPackable>true</IsPackable> <PackageId>InlineEvents.Net</PackageId>
-    <Version>1.0.3</Version>
+    <Version>1.0.4</Version>
+    <PackageIcon>inlineEventsLogo.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <Authors>Adam Pyymaki</Authors>
     <Description>A high-performance sequential dispatcher that enables decoupled application rules to run in-line with the calling thread. Ideal for scenarios like cookie synchronization, real-time security validation, and immediate side effects.</Description>
@@ -17,7 +18,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="$(MSBuildThisFileDirectory)..\README.md" Pack="true" PackagePath="\" /> 
+    <None Include="$(MSBuildThisFileDirectory)..\README.md" Pack="true" PackagePath="\" />
+    <None Include="$(MSBuildThisFileDirectory)..\inlineEventsLogo.png" Pack="true" PackagePath="\" />
   </ItemGroup>
 
   <ItemGroup>
