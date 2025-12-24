@@ -45,7 +45,7 @@ public interface ILoginEventPublisher
 }
 
 // The Publisher Implementation (Consumes the dispatcher)
-public class LoginEventPublisher(InlineEventDispatcher dispatcher) : ILoginEventPublisher
+public class LoginEventPublisher(IInlineEventDispatcher dispatcher) : ILoginEventPublisher
 {
     public Task PublishAsync(UserLoggedIn @event) => dispatcher.Dispatch(@event);
 }
