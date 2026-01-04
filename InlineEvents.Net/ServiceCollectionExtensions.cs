@@ -6,14 +6,14 @@ namespace InlineEvents.Net
     {
         public static IServiceCollection AddInlineEvents(this IServiceCollection services)
         {
-            // 1. AUTOMATIC HANDLER DISCOVERY (Your Code Block)
+            // 1. AUTOMATIC HANDLER DISCOVERY 
             services.Scan(scan => scan
                 .FromApplicationDependencies() // Look across all loaded application assemblies
                 .AddClasses(classes => classes.AssignableTo(typeof(IEventHandlerInline<>)))
                 .AsImplementedInterfaces()    // Register as the IEventHandlerInline<TEvent> interface
                 .WithTransientLifetime());    // Ensure a new instance is created for each dispatch
 
-            // 2. REGISTER CORE INFRASTRUCTURE (The Glue)
+            // 2. REGISTER CORE INFRASTRUCTURE
 
             // Register the concrete resolver (which uses IServiceProvider to get handlers)
             services.AddScoped<IHandlerResolver, ServiceProviderHandlerResolver>();

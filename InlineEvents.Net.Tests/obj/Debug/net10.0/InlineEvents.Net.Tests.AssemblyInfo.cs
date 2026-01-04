@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InlineEvents.Net.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a03c3bc8e51fcf43123ebef78bf22eee4ee0c91a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dea5b4ac06ca0c47b32cb449faa80d6fa818b4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("InlineEvents.Net.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InlineEvents.Net.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

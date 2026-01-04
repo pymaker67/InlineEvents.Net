@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tskHhb4qLSo=",
+  "dgSpecHash": "u86ZwTQ8X0I=",
   "success": true,
   "projectFilePath": "C:\\Users\\adaml\\OneDrive\\Desktop\\InlineEvents.Net\\InlineEvents.Net.Tests\\InlineEvents.Net.Tests.csproj",
   "expectedPackageFiles": [
@@ -23,7 +23,8 @@
     "C:\\Users\\adaml\\.nuget\\packages\\xunit.core\\2.9.3\\xunit.core.2.9.3.nupkg.sha512",
     "C:\\Users\\adaml\\.nuget\\packages\\xunit.extensibility.core\\2.9.3\\xunit.extensibility.core.2.9.3.nupkg.sha512",
     "C:\\Users\\adaml\\.nuget\\packages\\xunit.extensibility.execution\\2.9.3\\xunit.extensibility.execution.2.9.3.nupkg.sha512",
-    "C:\\Users\\adaml\\.nuget\\packages\\xunit.runner.visualstudio\\3.1.4\\xunit.runner.visualstudio.3.1.4.nupkg.sha512"
+    "C:\\Users\\adaml\\.nuget\\packages\\xunit.runner.visualstudio\\3.1.4\\xunit.runner.visualstudio.3.1.4.nupkg.sha512",
+    "C:\\Users\\adaml\\.nuget\\packages\\inlineevents.net\\1.0.4\\inlineevents.net.1.0.4.nupkg.sha512"
   ],
   "logs": []
 }

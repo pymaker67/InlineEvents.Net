@@ -9,7 +9,7 @@
             // 1. Resolve handlers using your abstraction
             var handlers = resolver.GetHandlers<TEvent>();
 
-            // 2. Perform the ordering logic (This core logic is now unit-testable!)
+            // 2. Perform the ordering logic
             var orderedHandlers = handlers
                 .OrderBy(h => (h as ISequenceHandlerInline)?.Order ?? int.MaxValue);
 
